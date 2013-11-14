@@ -1,34 +1,3 @@
-﻿	/*#pragma strict
-	
-	#pragma implicit
-	#pragma downcast
-		var Cafe: GameObject; // L'objet à animer
-		//var anim: AnimationClip; // Le fichier d'animation
-	
-	
-	function Start () {
-	
-	}
-	
-	function Update () {
-	
-	 
-		function OnMouseDown() 
-		{
-	    	system.out.println("CAFE");
-	    	
-	    	//object.animation.clip = anim; // L'animation par défaut est anim
-	    	//object.animation.Play(); // On joue l'animation
-		}
-	}*/
-	
-	// Debug.Log() 
-	//var Myself : Transform; 
-	//var WalkSpeed : float;
-	//var player : Transform;
-	//var PlayerAlert : int;
-	//var motor : CharacterMotor;
-	//var target : Transform; 
 	 import System;
 
 	
@@ -89,10 +58,6 @@
 	
 	        
 	function Update(){
-	       
-	       //Debug.Log(objet); 
-	       
-			
 	      
 	
 	    	 if(show){

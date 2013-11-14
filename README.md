@@ -8,4 +8,7 @@ Collaboration with M.Lefevre, M.R.S.H. (Campus 1 Caen)
 
 Unity 3D environment source files owned by the University of Caen Basse-Normandie, cannot by published here.
 
+Unity 4.2
+JAVA JDK 1.7
+
 Upload personnal file and own creation only.
